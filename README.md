@@ -14,3 +14,6 @@ It is the Computer Networks Project which covers the concepts of Network securit
 
 - We demonstrate that the neural networks can learn how to perform forms of encryption and decryption, and also how to apply these operations selectively in order to meet conﬁdentiality goals.
 
+## Installation Dependencies:
+- Python 3
+- Tensorflow
